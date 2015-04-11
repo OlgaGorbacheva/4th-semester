@@ -13,8 +13,5 @@ SOURCES += \
     main.cpp
 
 HEADERS += \
-    threadpool.h \
-    threadpool.hpp \
-    queue.h \
-
-OTHER_FILES +=
+    priority_queue.h \
+    priority_queue.hpp

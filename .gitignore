@@ -5,3 +5,5 @@
 !*.hpp
 !*.pro
 !.gitignore
+!readme
+
